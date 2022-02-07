@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.meedu.flutter_facebook_auth" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/mintindola/Development/flutter/.pub-cache/git/flutter-facebook-auth-b65ffb049c9f1e2704adbeb1aa19c61693c946a5/facebook_auth/android/src/main/AndroidManifest.xml
+6
+7</manifest>

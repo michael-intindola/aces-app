@@ -1,0 +1,6 @@
+package com.mintindola.aces.dev
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

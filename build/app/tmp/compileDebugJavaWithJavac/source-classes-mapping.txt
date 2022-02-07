@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mintindola/aces/dev/BuildConfig.java
+ com.mintindola.aces.dev.BuildConfig
